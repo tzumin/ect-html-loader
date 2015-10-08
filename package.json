@@ -1,0 +1,27 @@
+{
+  "name": "ect-html-loader",
+  "version": "1.0.0",
+  "description": "ect html render for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzumin/ect-html-loader.git"
+  },
+  "keywords": [
+    "ect",
+    "loader",
+    "webpack",
+    "template",
+    "html"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzumin/ect-html-loader/issues"
+  },
+  "homepage": "https://github.com/tzumin/ect-html-loader#readme",
+  "dependencies": {
+    "ect": "^0.5.9",
+    "loader-utils": "^0.2.11"
+  }
+}
